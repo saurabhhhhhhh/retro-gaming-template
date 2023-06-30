@@ -1,0 +1,81 @@
+.titleheading{
+    font-size: 30px;
+}
+.navcolor{
+    background-color:#B31312;
+}
+.navmarg{
+    padding:0;
+}
+#backimg{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+.lead{
+    color: white;
+}
+.dice{
+    color: white;
+}
+.gamebutton {
+    outline: none;
+    border: 10px solid #404B69;
+    line-height: 2;
+    color:#6554AF;
+    font-size: 3rem;
+    font-weight: 500;
+    border-radius: 15px;
+    display: inline;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin:7%;
+    display: inline-block;
+    background-color: white;
+   
+  }
+  .diceebutton:hover{
+    opacity: 0.8;
+  }
+.gametitle{
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+    color:#B31312;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.leftbutton{
+    margin-left: 20px;
+}
+.diceegame{
+    background-image: url("retroimage/dicee button image.png");
+    background-size: 180px 180px;
+    background-repeat: no-repeat;
+}
+.earthbound{
+    background-image: url("retroimage/earthbound.jpeg");
+    background-size: 180px 180px;
+    background-repeat: no-repeat;
+}
+.spaceinvaders{
+    background-image: url("retroimage/spaceinvaders.jpg");
+    background-size: 180px 180px;
+    background-repeat: no-repeat;
+}
+.tetrablocks{
+    background-image: url("retroimage/tetrablocks.jpeg");
+    background-size: 180px 180px;
+    background-repeat: no-repeat;
+}
+.wildbullets{
+    background-image: url("retroimage/wildbullets.jpeg");
+    background-size: 180px 180px;
+    background-repeat: no-repeat;
+}
+.mazerun{
+    background-image: url("retroimage/mazerun.jpeg");
+    background-size: 180px 180px;
+    background-repeat: no-repeat; 
+}
